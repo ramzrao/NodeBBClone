@@ -1,13 +1,47 @@
-<div class="row mt-2">
+<div class="row mt-2 mb-3">
   <div class="col-1"></div>
   <div class="col">CATEGORIES</div>
 </div>
-<div class="row">
+<div class="row mb-4" *ngFor="let category of categoryData.categories">
   <div class="col-1"> </div>
-  <div class="col-1">img</div>
-  <div class="col-5">img</div>
-  <div class="col-1">img</div>
-  <div class="col-1">img</div>
+  <div class="col-1 row icon ">
+    <div [style.background-color]="category.bgColor" class="col-6 rounded-circle d-flex flex-column justify-content-center ">
+      <i [ngClass]="['fa ',category.icon,'fa-1x']" [style.color]="'#fff'" data-content=""> </i>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row ">
+      <span class="col-6 content">
+        <a href="">{{category.name}}</a>
+      </span>
+      <div class="w-100"></div>
+      <span class="col">
+        <small class="text-muted">{{category.description}}</small>
+      </span>
+    </div>
+  </div>
+  <div class="col-1">
+    <div class="row ">
+      <span class="col-6 d-flex  justify-content-center">
+        {{category.topic_count}}
+      </span>
+      <div class="w-100"></div>
+      <span class="col ">
+        <small class="Display-4" [style.color]="'#777'">TOPICS</small>
+      </span>
+    </div>
+  </div>
+  <div class="col-1">
+    <div class="row ">
+      <span class="col-6 d-flex justify-content-center">
+        {{category.post_count}}
+      </span>
+      <div class="w-100"></div>
+      <span class="col ">
+        <small class="Display-4" [style.color]="'#777'">POSTS</small>
+      </span>
+    </div>
+  </div>
   <div class="col-2">img</div>
   <div class="col-1"></div>
 

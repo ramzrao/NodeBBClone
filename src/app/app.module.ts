@@ -7,12 +7,14 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { HomeComponent } from './home/home.component';
 import { CategoriesService } from './services/categories.service';
 import { HttpClientModule } from '@angular/common/http';
+import { NumberConvertPipe } from './shared/pipes/numberconvert.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     AppNavbarComponent,
-    HomeComponent
+    HomeComponent,
+    NumberConvertPipe
   ],
   imports: [
     BrowserModule,

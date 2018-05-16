@@ -36,8 +36,8 @@
                   "username":"tomz",
                   "userslug":"tomz",
                   "picture":"",
-                  "icon:text":"T",
-                  "icon:bgColor":"#e65100"
+                  "icontext":"T",
+                  "iconbgColor":"#e65100"
                },
                "timestampISO":"2018-05-03T01:55:53.562Z",
                "index":2,
@@ -88,8 +88,8 @@
                   "username":"setareh238",
                   "userslug":"setareh238",
                   "picture":"https://i.imgur.com/zWyGAEd.jpg",
-                  "icon:text":"S",
-                  "icon:bgColor":"#827717"
+                  "icontext":"S",
+                  "iconbgColor":"#827717"
                },
                "timestampISO":"2018-05-05T07:09:03.111Z",
                "index":3,
@@ -159,8 +159,8 @@
                         "username":"JJSagan",
                         "userslug":"jjsagan",
                         "picture":"",
-                        "icon:text":"J",
-                        "icon:bgColor":"#33691e"
+                        "icontext":"J",
+                        "iconbgColor":"#33691e"
                      },
                      "timestampISO":"2018-05-04T05:25:01.197Z",
                      "index":3,
@@ -205,8 +205,8 @@
                         "username":"julian",
                         "userslug":"julian",
                         "picture":"https://i.imgur.com/K5iFuSC.jpg",
-                        "icon:text":"J",
-                        "icon:bgColor":"#607d8b"
+                        "icontext":"J",
+                        "iconbgColor":"#607d8b"
                      },
                      "timestampISO":"2018-04-30T14:39:18.676Z",
                      "index":5,
@@ -251,8 +251,8 @@
                         "username":"The Worms",
                         "userslug":"the-worms",
                         "picture":"https://i.imgur.com/nPXqi3n.png",
-                        "icon:text":"T",
-                        "icon:bgColor":"#673ab7"
+                        "icontext":"T",
+                        "iconbgColor":"#673ab7"
                      },
                      "timestampISO":"2018-05-05T09:36:46.797Z",
                      "index":9,
@@ -308,8 +308,8 @@
                   "username":"The Worms",
                   "userslug":"the-worms",
                   "picture":"https://i.imgur.com/nPXqi3n.png",
-                  "icon:text":"T",
-                  "icon:bgColor":"#673ab7"
+                  "icontext":"T",
+                  "iconbgColor":"#673ab7"
                },
                "timestampISO":"2018-05-05T09:36:46.797Z",
                "index":9,
@@ -378,8 +378,8 @@
                         "username":"julian",
                         "userslug":"julian",
                         "picture":"https://i.imgur.com/K5iFuSC.jpg",
-                        "icon:text":"J",
-                        "icon:bgColor":"#607d8b"
+                        "icontext":"J",
+                        "iconbgColor":"#607d8b"
                      },
                      "timestampISO":"2018-05-02T17:26:20.552Z",
                      "index":2,
@@ -425,8 +425,8 @@
                         "username":"flurryfish",
                         "userslug":"flurryfish",
                         "picture":"",
-                        "icon:text":"F",
-                        "icon:bgColor":"#e65100"
+                        "icontext":"F",
+                        "iconbgColor":"#e65100"
                      },
                      "timestampISO":"2018-04-25T02:03:23.592Z",
                      "index":9,
@@ -453,8 +453,8 @@
                   "username":"yariplus",
                   "userslug":"yariplus",
                   "picture":"https://i.imgur.com/jjCaxS7.jpg",
-                  "icon:text":"Y",
-                  "icon:bgColor":"#1b5e20"
+                  "icontext":"Y",
+                  "iconbgColor":"#1b5e20"
                },
                "timestampISO":"2018-05-04T23:23:20.760Z",
                "index":2,
@@ -505,8 +505,8 @@
                   "username":"logomines",
                   "userslug":"logomines",
                   "picture":"",
-                  "icon:text":"L",
-                  "icon:bgColor":"#1b5e20"
+                  "icontext":"L",
+                  "iconbgColor":"#1b5e20"
                },
                "timestampISO":"2018-05-04T05:58:03.754Z",
                "index":10,
@@ -608,8 +608,8 @@
                         "username":"Dawid Glomba",
                         "userslug":"dawid-glomba",
                         "picture":"https://graph.facebook.com/1032052660207922/picture?type=large",
-                        "icon:text":"D",
-                        "icon:bgColor":"#827717"
+                        "icontext":"D",
+                        "iconbgColor":"#827717"
                      },
                      "timestampISO":"2018-03-12T09:42:37.417Z",
                      "index":2,
@@ -636,8 +636,8 @@
                   "username":"MBFTOM",
                   "userslug":"mbftom",
                   "picture":"",
-                  "icon:text":"M",
-                  "icon:bgColor":"#2196f3"
+                  "icontext":"M",
+                  "iconbgColor":"#2196f3"
                },
                "timestampISO":"2018-05-04T21:06:23.197Z",
                "index":5,
@@ -691,8 +691,8 @@
                   "username":"chdrealtor",
                   "userslug":"chdrealtor",
                   "picture":"",
-                  "icon:text":"C",
-                  "icon:bgColor":"#f44336"
+                  "icontext":"C",
+                  "iconbgColor":"#f44336"
                },
                "timestampISO":"2018-04-26T20:50:22.488Z",
                "index":5,
@@ -768,8 +768,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"T",
-            "icon:bgColor":"#673ab7"
+            "icontext":"T",
+            "iconbgColor":"#673ab7"
          },
          "teaser":{
             "pid":67782,
@@ -782,8 +782,8 @@
                "username":"The Worms",
                "userslug":"the-worms",
                "picture":"https://i.imgur.com/nPXqi3n.png",
-               "icon:text":"T",
-               "icon:bgColor":"#673ab7"
+               "icontext":"T",
+               "iconbgColor":"#673ab7"
             },
             "timestampISO":"2018-05-05T09:36:46.797Z",
             "index":9
@@ -843,8 +843,8 @@
             "signature":"",
             "banned":null,
             "status":"offline",
-            "icon:text":"B",
-            "icon:bgColor":"#9c27b0"
+            "icontext":"B",
+            "iconbgColor":"#9c27b0"
          },
          "teaser":{
             "pid":67781,
@@ -857,8 +857,8 @@
                "username":"setareh238",
                "userslug":"setareh238",
                "picture":"https://i.imgur.com/zWyGAEd.jpg",
-               "icon:text":"S",
-               "icon:bgColor":"#827717"
+               "icontext":"S",
+               "iconbgColor":"#827717"
             },
             "timestampISO":"2018-05-05T07:09:03.111Z",
             "index":3
@@ -916,8 +916,8 @@
             "signature":"I have a blog now: https://medium.com/@pitaj",
             "banned":0,
             "status":"offline",
-            "icon:text":"P",
-            "icon:bgColor":"#e65100"
+            "icontext":"P",
+            "iconbgColor":"#e65100"
          },
          "teaser":{
             "pid":67780,
@@ -930,8 +930,8 @@
                "username":"yariplus",
                "userslug":"yariplus",
                "picture":"https://i.imgur.com/jjCaxS7.jpg",
-               "icon:text":"Y",
-               "icon:bgColor":"#1b5e20"
+               "icontext":"Y",
+               "iconbgColor":"#1b5e20"
             },
             "timestampISO":"2018-05-05T00:47:42.470Z",
             "index":44
@@ -987,8 +987,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"A",
-            "icon:bgColor":"#795548"
+            "icontext":"A",
+            "iconbgColor":"#795548"
          },
          "teaser":{
             "pid":67779,
@@ -1001,8 +1001,8 @@
                "username":"yariplus",
                "userslug":"yariplus",
                "picture":"https://i.imgur.com/jjCaxS7.jpg",
-               "icon:text":"Y",
-               "icon:bgColor":"#1b5e20"
+               "icontext":"Y",
+               "iconbgColor":"#1b5e20"
             },
             "timestampISO":"2018-05-04T23:23:20.760Z",
             "index":2
@@ -1059,8 +1059,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"C",
-            "icon:bgColor":"#2196f3"
+            "icontext":"C",
+            "iconbgColor":"#2196f3"
          },
          "teaser":{
             "pid":67778,
@@ -1073,8 +1073,8 @@
                "username":"creatxr",
                "userslug":"creatxr",
                "picture":"",
-               "icon:text":"C",
-               "icon:bgColor":"#2196f3"
+               "icontext":"C",
+               "iconbgColor":"#2196f3"
             },
             "timestampISO":"2018-05-04T22:13:53.589Z",
             "index":1
@@ -1132,8 +1132,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"M",
-            "icon:bgColor":"#2196f3"
+            "icontext":"M",
+            "iconbgColor":"#2196f3"
          },
          "teaser":{
             "pid":67777,
@@ -1146,8 +1146,8 @@
                "username":"MBFTOM",
                "userslug":"mbftom",
                "picture":"",
-               "icon:text":"M",
-               "icon:bgColor":"#2196f3"
+               "icontext":"M",
+               "iconbgColor":"#2196f3"
             },
             "timestampISO":"2018-05-04T21:06:23.197Z",
             "index":5
@@ -1208,8 +1208,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"D",
-            "icon:bgColor":"#e65100"
+            "icontext":"D",
+            "iconbgColor":"#e65100"
          },
          "teaser":{
             "pid":67773,
@@ -1222,8 +1222,8 @@
                "username":"davidr",
                "userslug":"davidr",
                "picture":"",
-               "icon:text":"D",
-               "icon:bgColor":"#3f51b5"
+               "icontext":"D",
+               "iconbgColor":"#3f51b5"
             },
             "timestampISO":"2018-05-04T16:15:39.139Z",
             "index":19
@@ -1279,8 +1279,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"Y",
-            "icon:bgColor":"#827717"
+            "icontext":"Y",
+            "iconbgColor":"#827717"
          },
          "teaser":{
             "pid":67770,
@@ -1293,8 +1293,8 @@
                "username":"baris",
                "userslug":"baris",
                "picture":"https://i.imgur.com/ewMLHNO.jpg",
-               "icon:text":"B",
-               "icon:bgColor":"#ff5722"
+               "icontext":"B",
+               "iconbgColor":"#ff5722"
             },
             "timestampISO":"2018-05-04T13:54:45.608Z",
             "index":2
@@ -1353,8 +1353,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"M",
-            "icon:bgColor":"#e91e63"
+            "icontext":"M",
+            "iconbgColor":"#e91e63"
          },
          "teaser":{
             "pid":67768,
@@ -1367,8 +1367,8 @@
                "username":"Mark Coniglio",
                "userslug":"mark-coniglio",
                "picture":"",
-               "icon:text":"M",
-               "icon:bgColor":"#e91e63"
+               "icontext":"M",
+               "iconbgColor":"#e91e63"
             },
             "timestampISO":"2018-05-04T09:39:52.858Z",
             "index":4
@@ -1426,8 +1426,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"Y",
-            "icon:bgColor":"#795548"
+            "icontext":"Y",
+            "iconbgColor":"#795548"
          },
          "teaser":{
             "pid":67767,
@@ -1440,8 +1440,8 @@
                "username":"yami",
                "userslug":"yami",
                "picture":"",
-               "icon:text":"Y",
-               "icon:bgColor":"#795548"
+               "icontext":"Y",
+               "iconbgColor":"#795548"
             },
             "timestampISO":"2018-05-04T09:02:36.057Z",
             "index":5
@@ -1501,8 +1501,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"C",
-            "icon:bgColor":"#33691e"
+            "icontext":"C",
+            "iconbgColor":"#33691e"
          },
          "teaser":{
             "pid":67766,
@@ -1515,8 +1515,8 @@
                "username":"Krist Shap",
                "userslug":"krist-shap",
                "picture":"https://i.imgur.com/VTtOKgR.jpg",
-               "icon:text":"K",
-               "icon:bgColor":"#e91e63"
+               "icontext":"K",
+               "iconbgColor":"#e91e63"
             },
             "timestampISO":"2018-05-04T07:53:11.295Z",
             "index":9
@@ -1571,8 +1571,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"A",
-            "icon:bgColor":"#e65100"
+            "icontext":"A",
+            "iconbgColor":"#e65100"
          },
          "teaser":{
             "pid":67764,
@@ -1585,8 +1585,8 @@
                "username":"Alexander Shortt",
                "userslug":"alexander-shortt",
                "picture":"",
-               "icon:text":"A",
-               "icon:bgColor":"#e65100"
+               "icontext":"A",
+               "iconbgColor":"#e65100"
             },
             "timestampISO":"2018-05-04T06:02:51.835Z",
             "index":1
@@ -1644,8 +1644,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"A",
-            "icon:bgColor":"#e91e63"
+            "icontext":"A",
+            "iconbgColor":"#e91e63"
          },
          "teaser":{
             "pid":67763,
@@ -1658,8 +1658,8 @@
                "username":"logomines",
                "userslug":"logomines",
                "picture":"",
-               "icon:text":"L",
-               "icon:bgColor":"#1b5e20"
+               "icontext":"L",
+               "iconbgColor":"#1b5e20"
             },
             "timestampISO":"2018-05-04T05:58:03.754Z",
             "index":10
@@ -1722,8 +1722,8 @@
             "signature":"Co-Founder, NodeBB Inc.\nToronto, Ontario\n[Full service hosting for $35/mo](https://nodebb.org) | [Want to do it yourself?](https://www.digitalocean.com/?refcode=98bdc9454647)",
             "banned":null,
             "status":"offline",
-            "icon:text":"J",
-            "icon:bgColor":"#607d8b"
+            "icontext":"J",
+            "iconbgColor":"#607d8b"
          },
          "teaser":{
             "pid":67762,
@@ -1736,8 +1736,8 @@
                "username":"JJSagan",
                "userslug":"jjsagan",
                "picture":"",
-               "icon:text":"J",
-               "icon:bgColor":"#33691e"
+               "icontext":"J",
+               "iconbgColor":"#33691e"
             },
             "timestampISO":"2018-05-04T05:25:01.197Z",
             "index":3
@@ -1793,8 +1793,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"B",
-            "icon:bgColor":"#f44336"
+            "icontext":"B",
+            "iconbgColor":"#f44336"
          },
          "teaser":{
             "pid":67760,
@@ -1807,8 +1807,8 @@
                "username":"Giggiux",
                "userslug":"giggiux",
                "picture":"https://i.imgur.com/tTR9Uin.jpg",
-               "icon:text":"G",
-               "icon:bgColor":"#e65100"
+               "icontext":"G",
+               "iconbgColor":"#e65100"
             },
             "timestampISO":"2018-05-03T23:45:08.239Z",
             "index":2
@@ -1866,8 +1866,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"B",
-            "icon:bgColor":"#f44336"
+            "icontext":"B",
+            "iconbgColor":"#f44336"
          },
          "teaser":{
             "pid":67758,
@@ -1880,8 +1880,8 @@
                "username":"Juan G.",
                "userslug":"juan-g",
                "picture":"https://i.imgur.com/z58g88w.jpg",
-               "icon:text":"J",
-               "icon:bgColor":"#e91e63"
+               "icontext":"J",
+               "iconbgColor":"#e91e63"
             },
             "timestampISO":"2018-05-03T21:24:49.060Z",
             "index":7
@@ -1940,8 +1940,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"D",
-            "icon:bgColor":"#009688"
+            "icontext":"D",
+            "iconbgColor":"#009688"
          },
          "teaser":{
             "pid":67752,
@@ -1954,8 +1954,8 @@
                "username":"PitaJ",
                "userslug":"pitaj",
                "picture":"https://i.imgur.com/Dj8Fe85.png",
-               "icon:text":"P",
-               "icon:bgColor":"#e65100"
+               "icontext":"P",
+               "iconbgColor":"#e65100"
             },
             "timestampISO":"2018-05-03T19:55:17.532Z",
             "index":3
@@ -2016,8 +2016,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"J",
-            "icon:bgColor":"#e91e63"
+            "icontext":"J",
+            "iconbgColor":"#e91e63"
          },
          "teaser":{
             "pid":67749,
@@ -2030,8 +2030,8 @@
                "username":"baris",
                "userslug":"baris",
                "picture":"https://i.imgur.com/ewMLHNO.jpg",
-               "icon:text":"B",
-               "icon:bgColor":"#ff5722"
+               "icontext":"B",
+               "iconbgColor":"#ff5722"
             },
             "timestampISO":"2018-05-03T19:37:22.362Z",
             "index":11
@@ -2092,8 +2092,8 @@
             "signature":"co-founder @NodeBB | [@o9k](https:&#x2F;&#x2F;twitter.com&#x2F;o9k)",
             "banned":null,
             "status":"offline",
-            "icon:text":"P",
-            "icon:bgColor":"#f44336"
+            "icontext":"P",
+            "iconbgColor":"#f44336"
          },
          "teaser":{
             "pid":67745,
@@ -2106,8 +2106,8 @@
                "username":"psychobunny",
                "userslug":"psychobunny",
                "picture":"https://i.imgur.com/1p8V124.png",
-               "icon:text":"P",
-               "icon:bgColor":"#f44336"
+               "icontext":"P",
+               "iconbgColor":"#f44336"
             },
             "timestampISO":"2018-05-03T19:10:22.494Z",
             "index":1
@@ -2163,8 +2163,8 @@
             "signature":"",
             "banned":0,
             "status":"offline",
-            "icon:text":"D",
-            "icon:bgColor":"#009688"
+            "icontext":"D",
+            "iconbgColor":"#009688"
          },
          "teaser":{
             "pid":67737,
@@ -2177,8 +2177,8 @@
                "username":"julian",
                "userslug":"julian",
                "picture":"https://i.imgur.com/K5iFuSC.jpg",
-               "icon:text":"J",
-               "icon:bgColor":"#607d8b"
+               "icontext":"J",
+               "iconbgColor":"#607d8b"
             },
             "timestampISO":"2018-05-03T16:39:55.921Z",
             "index":5

@@ -3,9 +3,9 @@
   <div class="col">CATEGORIES</div>
 </div>
 <div class="row mb-4" *ngFor="let category of categoryData.categories">
-  <div class="col-1"> </div>
-  <div class="col-1 row icon d-flex justify-content-end">
-    <div [style.background-color]="category.bgColor" class="col-6 rounded-circle d-flex flex-column justify-content-center ">
+
+  <div class="col-md-2 row icon d-flex justify-content-end">
+    <div [style.background-color]="category.bgColor" class="col-md-2 rounded-circle d-flex flex-column justify-content-center ">
       <i [ngClass]="['fa ',category.icon,'fa-1x']" [style.color]="'#fff'" data-content=""> </i>
     </div>
   </div>
@@ -43,11 +43,16 @@
     </div>
   </div>
   <div class="col-2">
-    <div class="card text-center border-top-0 border-right-0 border-bottom-0" [ngStyle]="{'border-style':'solid','border-width':'5px','border-color':category.posts[0].user.iconbgColor}">
-      <div class="card-body">
-        <a class="card-title " href=""><small >Card title</small></a>
-        <small class="card-text">This card has supporting text below as a natural lead-in to additional content.</small>
-        
+    <div class="card text-center border-top-0 border-right-0 border-bottom-0" [ngStyle]="{'border-style':'solid','border-width':'5px','border-color':category.bgColor}">
+      <div class="card-body pb-0 pt-0">
+        <div class="row no-gutters">
+          <div [style.background-color]="category.posts[0].user.iconbgColor" class="col-1 rounded-circle d-flex flex-column justify-content-center ">
+            <small [ngStyle]="{'color':'white'}">{{category.posts[0].user.icontext}} </small>
+          </div>
+        </div>
+        <div class="row">
+          <small class="card-text" >This card has supporting text below as a natural lead-in to additional content.</small>
+        </div>
       </div>
     </div>
   </div>
